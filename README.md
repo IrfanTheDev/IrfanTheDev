@@ -40,7 +40,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/theirfanr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="theirfanr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/irfan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="irfan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCsoUoOEitTOEiM4_3wa0CrA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="irfan" height="30" width="40" /></a>
 </p>
 
 <!--
